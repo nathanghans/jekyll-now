@@ -4,12 +4,32 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an Information Security Analyst
+
+Governance
+Worker
+Raider
+35 year old
+Learner Studier
+
+Confident
+Futuristic
+Belief
+
+
+My Ethos
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Quiet
+Deep
+Sysadmin/CISSP
+Intrigued
+ABL - Always Be Learning
+Excellence is Standard not a Goal.
+Family Man
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
