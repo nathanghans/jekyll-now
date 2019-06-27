@@ -1,0 +1,5 @@
+A few notes on the GNS3 installer. https://docs.gns3.com/1hEoK0rmtdBRnMaUaVoMHUbYwtDAltXYShiMJUp1GMxk/index.html#
+
+If you have trouble setting up your ESXi server as a remote server - each time you try use a different name. I found that even when I changed the name the old settings would populate. I'm guessing it stores that info somewhere. So be careful.
+The remote server will take a minute to turn green and figure itself out, so give it a minute. 
+Leave the local server enabled. When I tried to disable it I got lots of errors saying it couldn't reached. So I just left it on.
