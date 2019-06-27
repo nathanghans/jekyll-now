@@ -2,7 +2,7 @@
 title: BSides Roc
 layout: post
 ---
-# Bsides Roc
+
 [Bsides - Rochester](http://bsidesroc.com)
 
 ## Introduction
