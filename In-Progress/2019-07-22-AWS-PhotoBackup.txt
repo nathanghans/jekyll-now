@@ -1,0 +1,5 @@
+Uploading all my photos to S3 as a backup locaiton 
+
+Why if I uploaded 12309 files, was there only 3834 Put/Copy/Post/List requests???
+
+I'll wait a day to see if maybe it needs longer to post to my account.
