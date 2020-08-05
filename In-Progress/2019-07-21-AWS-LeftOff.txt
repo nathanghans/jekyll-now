@@ -1,0 +1,1 @@
+To Restart AWS where w left off doing it manually - just open adjust the autoscaling group
