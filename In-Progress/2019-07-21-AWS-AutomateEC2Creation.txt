@@ -1,1 +1,6 @@
 AWS -- all you have to do is update your AS group
+
+Big help in finding commands - "get-command *<command you are looking for>*"
+
+ex get-command *ec2* #this will return a long list of possible EC2 commands
+

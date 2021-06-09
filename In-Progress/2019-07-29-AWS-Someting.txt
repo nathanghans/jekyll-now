@@ -1,0 +1,25 @@
+I really need to get better at writing down notes - i don't seem to have anything from the dynamodb to rds day. grrr
+
+The next adventure was going to be to retire the website - that is why no EC2 exist. I wish I had saved the final python script, though the one i have is close enough.
+
+So instead of creating the website in EC2, we will be using Kubernetes - super excited as people always talk about kubernetes. It'll be fun to understand what they are talking about :)
+
+Here we go.
+
+Kubernetes on AWS is called EKS
+
+Struggled the first day to even wrap my head around K8s; So here I am on day 2 following the step by step guide hoping it will click when I'm done.
+
+https://docs.aws.amazon.com/eks/latest/userguide/getting-started-console.html
+
+
+vpc-0377f814a0741abae
+sg-025a8f7facdcd3ecf
+
+
+subnet-03a509447dd6ec0eb,subnet-08cf4d40f7dd98c73,subnet-07d847009ac8406b7
+
+
+
+
+https://s3-external-1.amazonaws.com/cf-templates-1f6nk5ihy5lne-us-east-1/2019211cch-template1y8jhyu4o1g
